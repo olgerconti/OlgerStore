@@ -9,7 +9,7 @@ export function SobreNosotros() {
           <h3>Nuestra Misión</h3>
           <p>Proveer equipos de alto rendimiento con asesoría experta y garantía, asegurando que cada cliente encuentre exactamente lo que necesita.</p>
         </div>
-        <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80" alt="Equipo de trabajo" className="about-img" />
+        <img src="img/sobrenosotros.jpg" alt="Equipo de trabajo" className="about-img" />
       </div>
     </div>
   );

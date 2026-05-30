@@ -259,9 +259,9 @@ body {
 /* FOOTER */
 .footer { text-align: center; padding: 2rem; background: var(--bg-card); color: var(--text-muted); margin-top: auto; }
 
-/* =========================================
+/* 
    MEDIA QUERIES (RESPONSIVE DESIGN)
-   ========================================= */
+   */
 
 /* Ajustes para la tienda en tablets */
 @media (max-width: 900px) {
